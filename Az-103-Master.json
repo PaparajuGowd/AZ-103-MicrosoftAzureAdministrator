@@ -1,5 +1,6 @@
-{
+[{
 "Name":"AZ-103-MicrosoftAzureAdministrator",
+ "Language":"English",
 "Files":[{"RawFilePath":"https://raw.githubusercontent.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/master/Instructions/Labs/Role-Based%20Access%20Control%20(az-100-01).md",  
 
 "Order":1},
@@ -53,3 +54,4 @@
 "Order":14}
 
 ]}
+ ]
